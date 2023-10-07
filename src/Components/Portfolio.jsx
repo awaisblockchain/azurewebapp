@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/space.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "space moon";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Youtube Channel",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "To showcase my video editing and story telling skills, this is my Youtube Channel.",
+    url: "https://www.youtube.com/iExplorer64",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Personal Blog",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Here I create articles on interesting topics related to astronomy, history, life and technology",
+    url: "https://scienceduty.com/",
   },
   {
-    title: "My Resume Site",
+    title: "Work for Client",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Here I created this professional corporate video for my client's Youtube Channel",
+    url: "https://www.youtube.com/watch?v=InRERCfOkmI&t=30s&ab_channel=ScalingForSuccess",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Github",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I have uploaded several projects as my portfolio related to Web 3.0 Development and Data Engineering",
+    url: "https://github.com/awaisblockchain",
   },
 ];
 
