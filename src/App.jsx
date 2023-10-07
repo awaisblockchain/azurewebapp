@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "awaisblockchain",
   medium: "",
   twitter: "awaisblockchain",
-  youTube: "Code",
+  youTube: "iExplorer64",
 };
 
 const primaryColor = "#4E567E";
