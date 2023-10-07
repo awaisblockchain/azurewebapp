@@ -51,13 +51,17 @@ h1 {
   font-weight: 400;
   line-height: 0.8;
   margin: 0;
+  color: aliceblue;
+  font-weight: bold;
 }
 
 h2 {
+  font-weight: bold;
   font-size: 2rem;
   font-weight: 400;
   margin: 0;
   padding-top: 1rem;
+  color:azure;
 }
 
 h3 {
